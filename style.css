@@ -15,4 +15,15 @@ h1{
   padding: 20px;
   border-radius: 25px;
   }
+.center{
+    text-align: center;
+}
+.left{
+  display: inline-block;
+  text-align: left;
+}
+
+.yellow{
+  background-color: yellow;
+}
   
